@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development.**
 
-- 👨‍💻 All of my projects are available at [faraz412.github.io](faraz412.github.io)
+- 👨‍💻 All of my projects are available at [portfolio](faraz412.github.io)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Node.js, MongoDB, Express.**
 

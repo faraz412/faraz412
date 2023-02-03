@@ -1,10 +1,10 @@
 <h1 align="left">Hi there 👋, I'm Ahamed Faraz</h1>
 <h3 align="left">An aspiring Backend Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b41e1e27075137.5635f8edb514a.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faraz412&label=Profile%20views&color=0e75b6&style=flat" alt="faraz412" /> </p>
+<img align="right" alt="Coding" height="255" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b41e1e27075137.5635f8edb514a.gif">
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faraz412" alt="faraz412" /></a> </p> -->
+
+<hr>
 
 - 🔭 I’m currently working on [The Next Step](https://monumental-unicorn-4eb4db.netlify.app/)
 
@@ -16,11 +16,15 @@
 
 - 📫 How to reach me **ahmedfaraz412@gmail.com**
 
+<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahamed-faraz" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ahamed-faraz" height="30" width="100" /></a>&nbsp;
 <a href="ahmedfaraz412@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmial" height="30" width="100" /></a>
 </p>
+
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -49,9 +53,13 @@
 </a>
 </p>
 
+<hr>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faraz412&label=Profile%20views&color=0e75b6&style=flat" alt="faraz412" /> </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faraz412&show_icons=true&locale=en&layout=compact" alt="faraz412" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=faraz412&show_icons=true&locale=en" alt="faraz412" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=faraz412&show_icons=true&locale=en" alt="faraz412" /></p>
 
 
 

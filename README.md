@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Ahamed Faraz</h1>
 <h3 align="center">An aspiring Backend Web Developer</h3>
-<img align="center" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=16exJGflFaAMVelAxjFo8csiRNGvyfdNz">
+<img align="center" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b41e1e27075137.5635f8edb514a.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=faraz412&label=Profile%20views&color=0e75b6&style=flat" alt="faraz412" /> </p>
 

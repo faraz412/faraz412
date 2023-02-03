@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on [The Next Step](https://monumental-unicorn-4eb4db.netlify.app/)
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development.**
 
 - 👨‍💻 All of my projects are available at [faraz412.github.io](faraz412.github.io)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Node.js, MongoDB, Express.**
 
-- 📫 How to reach me **ahmedfaraz412@gmail.com**
+- 📫 You can reach me at **ahmedfaraz412@gmail.com**
 
 <hr>
 
@@ -57,9 +57,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faraz412&label=Profile%20views&color=0e75b6&style=flat" alt="faraz412" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faraz412&show_icons=true&locale=en&layout=compact" alt="faraz412" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=faraz412&show_icons=true&locale=en&layout=compact" alt="faraz412" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=faraz412&show_icons=true&locale=en" alt="faraz412" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=faraz412&show_icons=true&locale=en" alt="faraz412" /></p>
 
 
 

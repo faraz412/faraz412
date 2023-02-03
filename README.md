@@ -10,11 +10,9 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development.**
 
-- 👨‍💻 All of my projects are available at <a href="https://faraz412.github.io/" target="blank">Portfolio</a>.
+- 👨‍💻 All of my projects are available at <a href="https://faraz412.github.io" target="blank">Portfolio</a>.
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Node.js, MongoDB, Express.**
-
-- 📫 You can reach me at **ahmedfaraz412@gmail.com**
 
 <hr>
 

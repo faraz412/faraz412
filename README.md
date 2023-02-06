@@ -10,7 +10,9 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development.**
 
-- 👨‍💻 All of my projects are available at <a href="https://faraz412.github.io" target="blank">Portfolio</a>.
+- 📫 Reach me at: `ahmedfaraz412@gmail.com`
+
+- 👨‍💻 All of my projects are available at `faraz412.github.io`.
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Node.js, MongoDB, Express.**
 
@@ -18,8 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahamed-faraz" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ahamed-faraz" height="30" width="105" /></a>&nbsp;
-<a href="ahmedfaraz412@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmial" height="30" width="105" /></a>
+<a href="https://linkedin.com/in/ahamed-faraz" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ahamed-faraz" height="30" width="105" /></a>
 </p>
 
 <hr>

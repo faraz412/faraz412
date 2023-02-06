@@ -6,13 +6,13 @@
 
 <hr>
 
-- 🔭 I’m currently working on [The Next Step](https://monumental-unicorn-4eb4db.netlify.app/).
+- 🔭 I’m currently working on <a href="https://monumental-unicorn-4eb4db.netlify.app/" target="blank">`The Next Step`</a>.
 
 - 🌱 I’m currently learning **Full Stack Web Development.**
 
 - 📫 Reach me at: `ahmedfaraz412@gmail.com`
 
-- 👨‍💻 All of my projects are available at <a href="https://faraz412.github.io/" target="blank"></a>.
+- 👨‍💻 All of my projects are available at <a href="https://faraz412.github.io/" target="blank">`portfolio`</a>.
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Node.js, MongoDB, Express.**
 

@@ -12,7 +12,7 @@
 
 - 📫 Reach me at: `ahmedfaraz412@gmail.com`
 
-- 👨‍💻 All of my projects are available at `faraz412.github.io`.
+- 👨‍💻 All of my projects are available at <a href="https://faraz412.github.io/" target="blank"></a>.
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Node.js, MongoDB, Express.**
 

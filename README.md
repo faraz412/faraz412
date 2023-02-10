@@ -61,7 +61,7 @@
 
 <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=faraz412" alt="faraz412" width="400"/></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=faraz412&show_icons=true&locale=en&layout=compact" alt="faraz412" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=faraz412&layout=compact" alt="faraz412" /></p>
 
 
 

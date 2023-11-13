@@ -1,20 +1,20 @@
 <h1 align="left">Hi there 👋, I'm Ahamed Faraz</h1>
-<h3 align="left">An aspiring Backend Web Developer</h3>
+<h3 align="left">Full Stack Web Developer</h3>
 <img align="right" alt="Coding" height="255" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/b41e1e27075137.5635f8edb514a.gif">
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faraz412" alt="faraz412" /></a> </p> -->
 
 <hr>
 
-- 🔭 I’m currently working on <a href="https://monumental-unicorn-4eb4db.netlify.app/" target="blank">`The Next Step`</a>.
+<!--- 🔭 I’m currently working on <a href="https://monumental-unicorn-4eb4db.netlify.app/" target="blank">`The Next Step`</a>.-->
 
-- 🌱 I’m currently learning **Full Stack Web Development.**
+<!---- 🌱 I’m currently learning **Full Stack Web Development.**-->
 
 - 📫 Reach me at: `ahmedfaraz412@gmail.com`
 
 - 👨‍💻 All of my projects are available at <a href="https://faraz412.github.io/" target="blank">`portfolio`</a>.
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, MongoDB, Express.**
+- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, MongoDB, ExpressJs.**
 
 <hr>
 
